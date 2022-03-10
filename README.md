@@ -1,0 +1,5 @@
+- 👋 Hi, I’m MCL_Playz
+- 👀 I’m interested in Game/App Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on a Discord bot
+- 📫 How to reach me on discord: MinecraftLover68#7159
