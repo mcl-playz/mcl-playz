@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game/App Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a Discord bot
-- 📫 How to reach me on discord: MinecraftLover68#7159
+- 📫 Reach me on discord: MinecraftLover68#7159
