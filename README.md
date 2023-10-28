@@ -1,5 +1,4 @@
-- 👋 Hi, I’m MCL_Playz
-- 👀 I’m interested in Game/App Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a Discord bot
-- 📫 Reach me on discord: MinecraftLover68#7159
+# Hello!
+I'm **Jasper**, I got into coding when I was <ins>6</ins> and have been doing it since. I've learnt many languages such as: CSS, HTML, JavaScript, Java, Batch, Skript, Python, Scratch, and a bit of C#.
+I'm wanting to create minecraft mods/plugins, discord bots, and games. I've been creating a discord bot for a friends business. It succeeded. If you would like to talk to me, you can message
+me on discord: mcl_playz
