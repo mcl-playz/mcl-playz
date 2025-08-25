@@ -8,6 +8,7 @@
 - C++
 - GDScript
 - TypeScript
+- SQL
 
 **Frameworks**
 - Express.js
