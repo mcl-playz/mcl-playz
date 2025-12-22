@@ -9,6 +9,7 @@
 - GDScript
 - TypeScript
 - SQL
+- PHP
 
 **Frameworks**
 - Express.js
