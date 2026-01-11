@@ -10,6 +10,7 @@
 - TypeScript
 - SQL
 - PHP
+- Rust
 
 **Frameworks**
 - Express.js
