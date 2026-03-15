@@ -14,7 +14,6 @@
         <br>
         <br>
     </samp>
-    <!-- Languages -->
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa">
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af">
     <img alt="Python" src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa">
@@ -23,7 +22,6 @@
     <img alt="C#" src="https://img.shields.io/badge/csharp-1e1e2e?style=for-the-badge&logo=sharp&logoColor=cdd6f4">
     <img alt="C++" src="https://img.shields.io/badge/c++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=cdd6f4">
     <br>
-    <!-- Frameworks -->
     <img alt="Svelte" src="https://img.shields.io/badge/svelte-1e1e2e?style=for-the-badge&logo=svelte&logoColor=fab387">
     <img alt="Next.js" src="https://img.shields.io/badge/next.js-1e1e2e?style=for-the-badge&logo=next.js&logoColor=cdd6f4">
     <img alt="Express" src="https://img.shields.io/badge/express-1e1e2e?style=for-the-badge&logo=express&logoColor=cdd6f4">
@@ -32,4 +30,5 @@
     <img alt="Bun" src="https://img.shields.io/badge/bun-1e1e2e?style=for-the-badge&logo=bun&logoColor=cdd6f4">
 </p>
 
-![cursor](assets/cursor.svg)
+<samp>jasper@github ~ % </samp>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=600&pause=&color=FFFFFF&vCenter=true&width=435&height=20&lines=%E2%96%88;+" alt="Typing SVG" /></a> -->
