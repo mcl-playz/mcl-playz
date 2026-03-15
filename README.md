@@ -1,24 +1,35 @@
-**Languages**
-- HTML
-- CSS
-- JavaScript
-- Java
-- Python
-- C#
-- C++
-- GDScript
-- TypeScript
-- SQL
-- PHP
-- Rust
+<samp>jasper@github ~ % cat README.md</samp>
 
-**Frameworks**
-- Express.js
-- React
-- Next.js
-- Svelte
-- Tailwind
+<h3 align="center">
+    <samp>&gt; Hey There!, I am
+        <b><a target="_blank" href="https://github.com/mcl-playz">Jasper Green</a></b>
+    </samp>
+</h3>
 
-![Jasper's Github Stats](https://github-readme-stats.vercel.app/api?username=mcl-playz&show_icons=true&hide_border=true&title_color=6ade8f&text_color=daede0&icon_color=ffffff&bg_color=122117)
-![Jasper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mcl-playz&langs_count=8&layout=compact&hide_border=true&title_color=6ade8f&text_color=daede0&icon_color=ffffff&bg_color=122117)
-![Jasper's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcl-playz&hide_border=true&date_format=j%20M%5B%20Y%5D&background=122117&currStreakNum=DAEDE0&sideNums=DAEDE0&currStreakLabel=6ADE8F&sideLabels=6ADE8F&dates=DAEDE0&ring=6ADE8F&fire=6ADE8F)
+<p align="center">
+    <samp>
+        「 I'm a software developer from <b>Australia</b> 」
+        <br>
+        「 Focused on creating impactful web applications that improve lives</b> 」
+        <br>
+        <br>
+    </samp>
+    <!-- Languages -->
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa">
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af">
+    <img alt="Python" src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa">
+    <img alt="Java" src="https://img.shields.io/badge/java-1e1e2e?style=for-the-badge&logo=apachemaven&logoColor=cdd6f4">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=f38ba8">
+    <img alt="C#" src="https://img.shields.io/badge/csharp-1e1e2e?style=for-the-badge&logo=sharp&logoColor=cdd6f4">
+    <img alt="C++" src="https://img.shields.io/badge/c++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=cdd6f4">
+    <br>
+    <!-- Frameworks -->
+    <img alt="Svelte" src="https://img.shields.io/badge/svelte-1e1e2e?style=for-the-badge&logo=svelte&logoColor=fab387">
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-1e1e2e?style=for-the-badge&logo=next.js&logoColor=cdd6f4">
+    <img alt="Express" src="https://img.shields.io/badge/express-1e1e2e?style=for-the-badge&logo=express&logoColor=cdd6f4">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=89b4fa">
+    <img alt="Hono" src="https://img.shields.io/badge/hono-1e1e2e?style=for-the-badge&logo=hono&logoColor=cdd6f4">
+    <img alt="Bun" src="https://img.shields.io/badge/bun-1e1e2e?style=for-the-badge&logo=bun&logoColor=cdd6f4">
+</p>
+
+![cursor](assets/cursor.svg)
