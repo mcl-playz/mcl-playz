@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="175" height="24" viewBox="0 0 175 24">
-  <text x="0" y="17" font-family="monospace" font-size="13" fill="#fff">jasper@github</text>
-  <text x="101" y="17" font-family="monospace" font-size="13" fill="#fff">~ $</text>
-  <rect x="132" y="3" width="8" height="14" fill="#fff">
+  <text x="101" y="17" font-family="monospace" font-size="13" fill="#fff">jasper@github ~ $</text>
+  <rect x="132" y="6" width="8" height="14" fill="#fff">
     <animate
       attributeName="opacity"
       values="1;1;1;0;0;0;1"
