@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="30" viewBox="0 0 200 30">
-  <rect width="200" height="30" fill="#161b22" rx="4"/>
-  <text x="10" y="20" font-family="monospace" font-size="13" fill="#58a6ff">jasper@github</text>
-  <text x="118" y="20" font-family="monospace" font-size="13" fill="#ffffff"> ~ $</text>
-  <rect x="152" y="7" width="8" height="14" fill="#ffffff">
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="24" viewBox="0 0 175 24">
+  <text x="0" y="17" font-family="monospace" font-size="13" fill="#fff">jasper@github</text>
+  <text x="101" y="17" font-family="monospace" font-size="13" fill="#fff">~ $</text>
+  <rect x="132" y="3" width="8" height="14" fill="#fff">
     <animate
       attributeName="opacity"
       values="1;1;1;0;0;0;1"
