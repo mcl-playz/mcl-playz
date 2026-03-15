@@ -1,8 +1,8 @@
-<samp>jasper@github ~ % cat README.md</samp>
+<samp>jasper@github ~ % gh readme preview</samp>
 
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="https://github.com/mcl-playz">Jasper Green</a></b>
+        <b><a href="https://github.com/mcl-playz">Jasper Green</a></b>
     </samp>
 </h3>
 
@@ -10,7 +10,7 @@
     <samp>
         「 I'm a software developer from <b>Australia</b> 」
         <br>
-        「 Focused on creating impactful web applications that improve lives</b> 」
+        「 Focused on creating user-friendly and beautiful applications 」
         <br>
         <br>
     </samp>
