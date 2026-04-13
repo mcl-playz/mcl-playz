@@ -1,0 +1,17 @@
+[
+    {
+        "name": "FreeForum",
+        "desc": "An open-source forum software",
+        "repoURL": "https://github.com/mcl-playz/freeforum"
+    },
+    {
+        "name": "Karsak",
+        "desc": "An encrypted and anonymous messenger clone",
+        "repoURL": "https://github.com/mcl-playz/karsak"
+    },
+    {
+        "name": "GurtLib",
+        "desc": "A python package for Gurted (by FaceDev) servers",
+        "repoURL": "https://github.com/mcl-playz/gurtlib"
+    }
+]
