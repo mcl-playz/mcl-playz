@@ -70,7 +70,8 @@ export const load = async ({ params }) => {
     }
 
     const wordCount = getWordCount(matchedPost.content)
-    const readingTime = Math.ceil(wordCount / 225);
+    const wpm = 225;
+    const readingTime = wordCount < wpm ? "<1" : Math.ceil(wordCount / wpm);
     const html = await marked.parse(matchedPost.content);
 
     return {
